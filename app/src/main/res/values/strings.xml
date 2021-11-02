@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Fees Payment App</string>
+    <string name="branch_placeholder">Branch</string>
+    <string name="name_placeholder">Name</string>
+    <string name="pwd_placeholder">Password</string>
+    <string name="email_placeholder">Email</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="register">Don\'t have an account? Register here</string>
+    <string name="s_id_placeholder">Student ID</string>
+    <string name="year_placeholder">Year</string>
+    <string name="login_btn">Login</string>
+    <string name="logout_txt">Logout</string>
+    <string name="register_button">Sign Up</string>
+    <string name="welcome">Welcome, User!</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="pay_fees">Pay Fees</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="name1_placeholder">Name:</string>
+    <string name="email1_placeholder">Email:</string>
+    <string name="year1_placeholder">Year:</string>
+    <string name="branch1_placeholder">Branch:</string>
+    <string name="s_id1_placeholder">Student ID:</string>
+    <string name="dueFees_placeholder">Due Fees (Amount):</string>
+    <string name="dueDate_placeholder">Due Date:</string>
+</resources>

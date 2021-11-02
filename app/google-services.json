@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916284422271",
+    "project_id": "feespaymentapp-3a505",
+    "storage_bucket": "feespaymentapp-3a505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916284422271:android:5bfa5420faa2e13aefa74a",
+        "android_client_info": {
+          "package_name": "com.example.feespaymentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916284422271-h4mf1hugmhjoh28ud6g4124ijrkmcfpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZYMGwMW7mgpOc2dch4838UUQw1ghyRXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916284422271-h4mf1hugmhjoh28ud6g4124ijrkmcfpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
