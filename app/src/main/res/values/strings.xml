@@ -35,4 +35,12 @@
     <string name="s_id1_placeholder">Student ID:</string>
     <string name="dueFees_placeholder">Due Fees (Amount):</string>
     <string name="dueDate_placeholder">Due Date:</string>
+    <string name="emi_placeholder">EMI</string>
+
+    <string name="one">1 Month</string>
+    <string name="two">2 Months</string>
+    <string name="three">3 Months</string>
+    <string name="four">4 Months</string>
+    <string name="dueDate">15th September, 2021</string>
+    <string name="dueFees">Rs. 100000</string>
 </resources>

@@ -142,6 +142,58 @@
         app:layout_constraintStart_toEndOf="@+id/branch_display"
         app:layout_constraintTop_toBottomOf="@id/year_display_txt" />
 
+<!--    <RadioGroup-->
+<!--        android:id="@+id/radio_emi"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@id/button_first">-->
+
+<!--            <RadioButton android:id="@+id/radio_1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:checked="true"-->
+<!--                android:text="@string/one"/>-->
+<!--            <RadioButton android:id="@+id/radio_2"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="@string/two"/>-->
+<!--            <RadioButton android:id="@+id/radio_3"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="@string/three" />-->
+<!--            <RadioButton android:id="@+id/radio_4"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="@string/four"/>-->
+<!--        </RadioGroup>-->
+
+        <!--    <com.google.android.material.textfield.TextInputLayout-->
+<!--        android:id="@+id/emi"-->
+<!--        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"-->
+<!--        android:layout_width="300dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="16dp"-->
+<!--        android:textColor="?android:textColorPrimary"-->
+<!--        app:layout_constraintBottom_toTopOf="@id/dueFees_display"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@id/branch_display">-->
+
+<!--        <AutoCompleteTextView-->
+<!--            android:id="@+id/emi_txt"-->
+<!--            android:layout_width="300dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:hint="@string/emi_placeholder"-->
+<!--            android:inputType="none"-->
+<!--            android:labelFor="@id/emi"-->
+<!--            android:textColor="?android:textColorPrimary" />-->
+<!--    </com.google.android.material.textfield.TextInputLayout>-->
+
     <TextView
         android:id="@+id/dueFees_display"
         android:layout_width="wrap_content"
@@ -164,9 +216,9 @@
         android:layout_marginEnd="40dp"
         android:paddingTop="16dp"
         android:textSize="20sp"
+        android:text="@string/dueFees"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        android:text="Rs. 10000"
         app:layout_constraintStart_toEndOf="@+id/dueFees_display"
         app:layout_constraintTop_toBottomOf="@id/branch_display_txt" />
 
@@ -194,7 +246,7 @@
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        android:text="15th September, 2021"
+        android:text="@string/dueDate"
         app:layout_constraintStart_toEndOf="@+id/dueDate_display"
         app:layout_constraintTop_toBottomOf="@id/dueFees_display" />
 

@@ -4,11 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/activity_profile.xml" value="0.264" />
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/activity_register_user.xml" value="0.264" />
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/content_profile.xml" value="0.264" />
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/draweritems.xml" value="0.25416666666666665" />
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/list_item.xml" value="0.12360688956433637" />
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/main_nav_drawer.xml" value="0.25416666666666665" />
         <entry key="..\:/Projects/FeesPaymentApp/app/src/main/res/layout/main_toolbar.xml" value="0.25416666666666665" />
